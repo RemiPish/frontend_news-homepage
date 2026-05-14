@@ -20,7 +20,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-Live Site URL: [Vercel](https://frontend-contact-form-wheat.vercel.app/)
+Live Site URL: [Vercel](https://frontend-news-homepage.vercel.app/)
 
 ## My process
 
